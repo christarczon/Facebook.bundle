@@ -1,0 +1,22 @@
+{
+	appName:      "Facebook",
+	preferences:  "Preferences",
+	status:       "Status",
+	setStatus:    "What's on your mind?",
+	home:         "News Feed",
+	yourPhotos:   "Your Photos",
+	yourTagged:   "Photos of You",
+	friendPhotos: "Albums",
+	friendTagged: "Tagged",
+	noTitle:      "Untitled",
+	friends:      "Friends",
+	nextPage:     "More...",
+	noPhotos:     "No photos found",
+	noAlbums:     "No albums found",
+	connectFirstTime:       "Connect Your Facebook Account",
+	connectAfterError:      "Reconnect Your Facebook Account",
+	changeConnection:       "Change Account",
+	accessCodeInstructions: "Go to https://dcstewieg.no-ip.org/plex-facebook to get your access code",
+	invalidAccessCode:      "Invalid Access Code",
+	errorUpdatingStatus:    "Error Updating Status"
+}

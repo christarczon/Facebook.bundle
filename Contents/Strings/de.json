@@ -1,0 +1,22 @@
+{
+	appName:      "Facebook",
+	preferences:  "Voreinstellungen",
+	status:       "Status",
+	setStatus:    "Was machst du gerade?",
+	home:         "Neuigkeiten",
+	yourPhotos:   "Deine Fotos",
+	yourTagged:   "Fotos von dir",
+	friendPhotos: "Alben",
+	friendTagged: "Fotos",
+	noTitle:      "Untitled",
+	friends:      "Freunde",
+	nextPage:     "Mehr...",
+	noPhotos:     "Keine Bilder gefunden",
+	noAlbums:     "Keine Alben gefunden",
+	connectFirstTime:       "Verbinden Sie Ihre Facebook-Konto",
+	connectAfterError:      "Verbinden Sie Ihren Facebook-Konto",
+	changeConnection:       "Konto ändern",
+	accessCodeInstructions: "Zur https://dcstewieg.no-ip.org/plex-facebook Ihren Zugangscode zu erhalten",
+	invalidAccessCode:      "Ungultige Access Code",
+	errorUpdatingStatus:    "Fehler beim Aktualisieren der Status"
+}

@@ -1,0 +1,37 @@
+[
+	{
+		id:      "showStatusMessage",
+		label:   "Show Status Messages In",
+		type:    "enum",
+		values:  ["Title", "Summary", "Title & Summary"],
+		default: "Title & Summary"
+	},
+	{
+		id:      "recentLimit",
+		label:   "News Feed Page Size (maximum)",
+		type:    "enum",
+		values:  ["10","25","50","100","250","500","1000"],
+		default: "25"
+	},
+	{
+		id:      "imageLimit",
+		label:   "Image Page Size",
+		type:    "enum",
+		values:  ["10","25","50","100","250","500","1000"],
+		default: "50"
+	},
+	{
+		id:      "albumLimit",
+		label:   "Album Page Size",
+		type:    "enum",
+		values:  ["10","25","50","100","250","500","1000"],
+		default: "25"
+	},
+	{
+		id:      "thumbQuality",
+		label:   "Thumbnail Quality",
+		type:    "enum",
+		values:  ["75","130","180","Full","Full Hi-Res"],
+		default: "180"
+	}
+]

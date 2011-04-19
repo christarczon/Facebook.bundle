@@ -1,0 +1,22 @@
+{
+	appName:      "Facebook",
+	preferences:  "Préférences",
+	status:       "Statut",
+	setStatus:    "Exprimez-vous",
+	home:         "Fil d’actualité",
+	yourPhotos:   "Vos photos",
+	yourTagged:   "Photos de vous",
+	friendPhotos: "Albums photos",
+	friendTagged: "Marque photos",
+	noTitle:      "Sans titre",
+	friends:      "Amis",
+	nextPage:     "Plus...",
+	noPhotos:     "Aucune photo n'a été trouvée",
+	noAlbums:     "Aucun album trouvé",
+	connectFirstTime:       "Connecter votre compte Facebook",
+	connectAfterError:      "Rebranchez votre compte Facebook",
+	changeConnection:       "Changer de compte",
+	accessCodeInstructions: "Allez sur https://dcstewieg.no-ip.org/plex-facebook pour obtenir votre code d'accés",
+	invalidAccessCode:      "Code d'accès non valide",
+	errorUpdatingStatus:    "Erreur mise à jour de statut"
+}
