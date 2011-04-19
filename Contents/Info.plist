@@ -7,7 +7,7 @@
 	<key>CFBundleExecutable</key>
 	<string></string>
 	<key>CFBundleIdentifier</key>
-	<string>com.plexapp.plugins.facebook.photos</string>
+	<string>com.plexapp.plugins.facebook</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundlePackageType</key>
@@ -22,12 +22,8 @@
 	<string>0</string>
 	<key>PlexPluginMode</key>
 	<string>AlwaysOn</string>
-	<key>PlexPluginPrefixes</key>
-	<array>
-		<string>/photos/facebook</string>
-	</array>
 	<key>PlexPluginDevMode</key>
-	<string>0</string>
+	<string>1</string>
 	<key>PlexFrameworkVersion</key>
 	<string>2</string>
 </dict>
